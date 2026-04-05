@@ -23,6 +23,6 @@ int  main(int argc, char** argv)
     std::cout << "Введите точку отсчета: " ;
     std::cin >> point;
     int result = countside(arr, size, point);
-    std::cout << "Количество элементов в массиве больших, чем:" << point <<  ": " << result << std::endl;
+    std::cout << "Количество элементов в массиве больших, чем  " << point <<  ": " << result << std::endl;
     return 0;
 }
