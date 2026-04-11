@@ -5,3 +5,9 @@
 Домашнее задание 02 к занятию «Динамическое программирование и жадность»      
 Задача 1. Снова числа Фибоначчи - /algocpp_42/02_dynamic_algo/01_fibonacci/main.cpp    
 Задача 2. Ускоряем Фибоначчи - /algocpp_42/02_dynamic_algo/02_fibonacci_mem/main.cpp    
+
+Домашнее задание 03 к занятию «Сортировки»    
+Задача 1. Сортировка слиянием - /algocpp_42/03_sorting/01_merge_sort/main.cpp    
+Задача 2. Быстрая сортировка - /algocpp_42/03_sorting/02_fast_sort/main.cpp    
+Задача 3. Сортировка подсчётом - /algocpp_42/03_sorting/03_count_sort/main.cpp    
+
