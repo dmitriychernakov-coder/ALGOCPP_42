@@ -11,3 +11,7 @@
 Задача 2. Быстрая сортировка - /algocpp_42/03_sorting/02_fast_sort/main.cpp    
 Задача 3. Сортировка подсчётом - /algocpp_42/03_sorting/03_count_sort/main.cpp    
 
+Домашнее задание 04 к занятию «Динамический массив. Списки. Деки»    
+Задача 1. Вывод изменяемого динамического массива - /algocpp_42/04_dynamic_arrays/01_print_dyn_arr/main.cpp    
+Задача 2. Добавление в изменяемый динамический массив - /algocpp_42/04_dynamic_arrays/02_add_dyn_arr/main.cpp    
+Задача 3. Удаление первого элемента из изменяемого динамического массива - /algocpp_42/04_dynamic_arrays/03_del_dyn_arr/main.cpp   
