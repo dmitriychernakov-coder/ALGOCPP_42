@@ -15,3 +15,8 @@
 Задача 1. Вывод изменяемого динамического массива - /algocpp_42/04_dynamic_arrays/01_print_dyn_arr/main.cpp    
 Задача 2. Добавление в изменяемый динамический массив - /algocpp_42/04_dynamic_arrays/02_add_dyn_arr/main.cpp    
 Задача 3. Удаление первого элемента из изменяемого динамического массива - /algocpp_42/04_dynamic_arrays/03_del_dyn_arr/main.cpp   
+
+Домашнее задание 05 к занятию «Пирамиды и деревья поиска»    
+Задача 1. Вывод пирамиды на массиве - /algocpp_42/05_pyramid/01_out_pyramid/main.cpp    
+Задача 2. Путешествие по пирамиде - /algocpp_42/05_pyramid/02_trip_pyramid/main.cpp    
+ 
