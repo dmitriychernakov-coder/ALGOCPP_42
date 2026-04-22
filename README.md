@@ -20,3 +20,7 @@
 Задача 1. Вывод пирамиды на массиве - /algocpp_42/05_pyramid/01_out_pyramid/main.cpp    
 Задача 2. Путешествие по пирамиде - /algocpp_42/05_pyramid/02_trip_pyramid/main.cpp    
  
+Домашнее задание 05 к занятию «Хеширование»    
+Задача 1. Наивная хэш-функция для строки - /algocpp_42/06_hash/01_simply_hash/main.cpp    
+Задача 2. Настоящая хэш-функция для строки - /algocpp_42/06_hash/02_hash/main.cpp    
+Задача 3. Упрощённый алгоритм Рабина-Карпа - /algocpp_42/06_hash/03_rabin_carp/main.cpp     
