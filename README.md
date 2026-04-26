@@ -24,3 +24,7 @@
 Задача 1. Наивная хэш-функция для строки - /algocpp_42/06_hash/01_simply_hash/main.cpp    
 Задача 2. Настоящая хэш-функция для строки - /algocpp_42/06_hash/02_hash/main.cpp    
 Задача 3. Упрощённый алгоритм Рабина-Карпа - /algocpp_42/06_hash/03_rabin_carp/main.cpp     
+
+Домашнее задание к занятию «Графы»    
+Задача 1. Обход в глубину - /algocpp_42/07_graph/01_depth/main.cpp    
+Задача 2*. Обход в ширину - /algocpp_42/07_graph/02_width/main.cpp   
